@@ -1,13 +1,5 @@
-# Data Visualization of TA Corrections
-
-This project is a Dash web application designed to visualize the corrections made by Teaching Assistants (TAs) in a educational setting. It provides insights into grading patterns, feedback differences, and the overall impact of TAs on student assignments.
-
-## Features
-
-- Course, assignment, and task selection via dropdown menus.
-- Dynamic scatter plots to visualize TA feedback trends and grading patterns.
-- Heatmap visualization of feedback similarity.
-- Data-driven insights to enhance teaching quality and assignment grading.
+# Data Visualization of Student Feedbacls
+This project is a Dash web application designed to visualize the feedbacks provided by students.
 
 ## Installation
 
